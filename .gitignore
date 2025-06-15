@@ -1,0 +1,4 @@
+# Ignore image and result folders
+pokemon_dataset/
+test_images/
+predicted_result/
